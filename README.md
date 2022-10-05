@@ -18,7 +18,7 @@
 * [Upgrading OS](#upgrading-os)
 
 ### Deciding for a VPS hosting service
-
+* Make a VPS on your favorite hosting provider i.e AWS, Digital Ocean, Google Cloud etc.
   
 ### Why use nginx?
 * Nginx currently has the best way to manage resources.
